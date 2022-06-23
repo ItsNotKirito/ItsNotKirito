@@ -5,7 +5,7 @@
 <div>
 <h2 align="center"> About me </h2>
   <div align="center">
-<img src="https://giffiles.alphacoders.com/350/35069.gif" align="right">
+<img src="https://giffiles.alphacoders.com/350/35069.gif" align="right" width="219" height="219"/>
   </div>
 <li>
  <b>Name:</b> Kazuto

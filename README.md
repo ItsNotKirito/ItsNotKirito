@@ -7,9 +7,7 @@
   <div align="center">
 <img src="https://giffiles.alphacoders.com/350/35069.gif" align="right" width="219" height="219"/>
   </div>
-<li>
-<b>Name:</b> Kazuto 
-</li>
+
  <li>
 <b>Hobbies:</b> anime, gaming, mmorpg, comics
 </li>

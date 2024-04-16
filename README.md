@@ -12,9 +12,6 @@
 <b>Hobbies:</b> anime, gaming, mmorpg, comics
 </li>
 <li>
-<b>Gender:</b> He/Him 
-</li>
-<li>
 <b>MBTI:</b> ISTP
 </li>
 <div>
